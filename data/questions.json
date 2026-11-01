@@ -22,7 +22,7 @@
         ]
     },
     {
-        "name": "computer_science",
+        "name": "computer science",
         "questions": [
             "I enjoy solving problems with computers or digital tools.",
             "I am interested in how apps, websites, and software are built.",
@@ -33,7 +33,7 @@
         ]
     },
     {
-        "name": "health_sciences",
+        "name": "health sciences",
         "questions": [
             "I am interested in how the human body works.",
             "I would enjoy helping people understand health-related information.",
@@ -55,7 +55,7 @@
         ]
     },
     {
-        "name": "arts_and_design",
+        "name": "arts and design",
         "questions": [
             "I enjoy expressing ideas through images, music, writing, or other creative work.",
             "I notice details such as color, shape, layout, and style.",
@@ -66,7 +66,7 @@
         ]
     },
     {
-        "name": "social_sciences",
+        "name": "social sciences",
         "questions": [
             "I am curious about why people think and behave in different ways.",
             "I enjoy discussing how communities and societies change.",
@@ -77,7 +77,7 @@
         ]
     },
     {
-        "name": "environmental_and_natural_sciences",
+        "name": "environmental and natural sciences",
         "questions": [
             "I enjoy learning about ecosystems, animals, plants, or the natural world.",
             "I am interested in how human activities affect the environment.",
