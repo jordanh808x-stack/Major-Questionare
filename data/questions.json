@@ -1,90 +1,74 @@
 [
     {
-        "name": "business",
+        "name": "Exact and Earth Sciences",
         "questions": [
-            "I enjoy organizing people and projects to reach a goal.",
-            "I am curious about how companies earn money and grow.",
-            "I like persuading, negotiating, or reaching agreements with others.",
-            "I would enjoy developing a plan for a new product or service.",
-            "I am comfortable making decisions when not every detail is known.",
-            "I like learning about markets, brands, and entrepreneurs."
+            "I am curious about chemical reactions and how different substances interact.",
+            "I like working with numbers, statistics, and data to find patterns.",
+            "I enjoy understanding the Earth, including rocks, minerals, natural resources, and geological processes.",
+            "I am interested in understanding how computers, software, and technology work."
         ]
     },
     {
-        "name": "engineering",
+        "name": "Biological Sciences",
         "questions": [
-            "I enjoy figuring out how machines, structures, or systems work.",
-            "I like using math and science to solve practical problems.",
-            "I would enjoy designing and testing something I have created.",
-            "I am patient when a technical problem takes several attempts to solve.",
-            "I like finding ways to make tools, devices, or processes work better.",
-            "I enjoy understanding why something failed and how to improve it."
+            "I enjoy understanding ecosystems and the relationships between living organisms and their enviornments.",
+            "I am interested in understanding how living organisms function.",
+            "I like learning about genetics, DNA, and how characteristics are inherited.",
+            "I would enjoy conducting experiments to investigate biological questions."
         ]
     },
     {
-        "name": "computer science",
+        "name": "Engineering",
         "questions": [
-            "I enjoy solving problems with computers or digital tools.",
-            "I am interested in how apps, websites, and software are built.",
-            "I like breaking a complicated task into smaller logical steps.",
-            "I would enjoy learning a programming language.",
-            "I am curious about how data can be organized and analyzed.",
-            "I like exploring how technology could solve everyday problems."
+            "I like understsnding how machines, structures, and technical systems work.",
+            "I enjoy designing practical solutions to problems.",
+            "I enjoy figuring out why something is not working and finding ways to fix it.",
+            "I would enjoy designing or improving buildings, roads, bridges, or other infastructure."
         ]
     },
     {
-        "name": "health sciences",
+        "name": "Health Sciences",
         "questions": [
-            "I am interested in how the human body works.",
-            "I would enjoy helping people understand health-related information.",
-            "I like learning about biology and the causes of illness.",
-            "I can stay thoughtful and focused when someone needs help.",
-            "I am interested in how research can improve people's health.",
-            "I would enjoy working with others toward a person's care or recovery."
+            "I am curious about diseases, their causes, and how they can be treated or prevented.",
+            "I am interested in understanding how the human body works.",
+            "I am interested in how nutrition, exercise, and lifestyle affect human health.",
+            "I am interested in medicines, their effects, and how they are used safely."
         ]
     },
     {
-        "name": "education",
+        "name": "Human Sciences",
         "questions": [
-            "I enjoy explaining ideas so other people can understand them.",
-            "I feel satisfied when I help someone learn a new skill.",
-            "I am interested in how people learn at different ages.",
-            "I like creating activities that make a topic easier to understand.",
-            "I am comfortable speaking to and guiding a group.",
-            "I would enjoy helping students build confidence in their abilities."
+            "I enjoy understanding why people think, feel, and behave in different ways.",
+            "I enjoy studying historical events and understanding how they shape the present.",
+            "I like discussing ethical questions, human values, and different ways of understsnding the world.",
+            "I enjoy analyzing people's motivations, experiences, and relationships."
         ]
     },
     {
-        "name": "arts and design",
+        "name": "Applied Social Sciences",
         "questions": [
-            "I enjoy expressing ideas through images, music, writing, or other creative work.",
-            "I notice details such as color, shape, layout, and style.",
-            "I like experimenting with different ways to communicate an idea.",
-            "I would enjoy creating designs for products, spaces, or media.",
-            "I am willing to revise creative work to make it stronger.",
-            "I often imagine new possibilities for how something could look or feel."
+            "I enjoy working with budgets, financial information, and numerical records.",
+            "I am interested in how businesses operate, grow, and make decisions.",
+            "I enjoy researching information, communicating ideas, and explaining current events.",
+            "I am interested in laws, rights, justice, and how rules affect society."
         ]
     },
     {
-        "name": "social sciences",
+        "name": "Agricultural Sciences",
         "questions": [
-            "I am curious about why people think and behave in different ways.",
-            "I enjoy discussing how communities and societies change.",
-            "I like examining different viewpoints before forming an opinion.",
-            "I am interested in how history influences the present.",
-            "I would enjoy researching issues that affect groups of people.",
-            "I like looking for patterns in people's choices and experiences."
+            "I am interested in animal health, behavior, and care.",
+            "I am interested in how soil, climate, and water affect agriculture.",
+            "I enjoy learning about plants, crops, and how food is produced.",
+            "I enjoy organizing projects, setting goals, and coordinating tasks."
         ]
     },
     {
-        "name": "environmental and natural sciences",
+        "name": "Linguistics, Languages, and Arts",
         "questions": [
-            "I enjoy learning about ecosystems, animals, plants, or the natural world.",
-            "I am interested in how human activities affect the environment.",
-            "I like asking questions about how natural processes work.",
-            "I would enjoy collecting information or observations outdoors or in a lab.",
-            "I care about finding practical ways to protect natural resources.",
-            "I am curious about topics such as climate, geology, or conservation."
+            "I enjoy learning new languages and understanding how people communicate.",
+            "I enjoy expressing ideas and emotions through music, theater, visual arts, or other creative activities.",
+            "I like reading, writing, or creating stories and other forms of written expression.",
+            "I am curious how languages develop and how words communicate meaning."
         ]
     }
 ]
