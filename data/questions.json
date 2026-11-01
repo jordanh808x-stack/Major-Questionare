@@ -1,0 +1,90 @@
+[
+    {
+        "name": "business",
+        "questions": [
+            "I enjoy organizing people and projects to reach a goal.",
+            "I am curious about how companies earn money and grow.",
+            "I like persuading, negotiating, or reaching agreements with others.",
+            "I would enjoy developing a plan for a new product or service.",
+            "I am comfortable making decisions when not every detail is known.",
+            "I like learning about markets, brands, and entrepreneurs."
+        ]
+    },
+    {
+        "name": "engineering",
+        "questions": [
+            "I enjoy figuring out how machines, structures, or systems work.",
+            "I like using math and science to solve practical problems.",
+            "I would enjoy designing and testing something I have created.",
+            "I am patient when a technical problem takes several attempts to solve.",
+            "I like finding ways to make tools, devices, or processes work better.",
+            "I enjoy understanding why something failed and how to improve it."
+        ]
+    },
+    {
+        "name": "computer_science",
+        "questions": [
+            "I enjoy solving problems with computers or digital tools.",
+            "I am interested in how apps, websites, and software are built.",
+            "I like breaking a complicated task into smaller logical steps.",
+            "I would enjoy learning a programming language.",
+            "I am curious about how data can be organized and analyzed.",
+            "I like exploring how technology could solve everyday problems."
+        ]
+    },
+    {
+        "name": "health_sciences",
+        "questions": [
+            "I am interested in how the human body works.",
+            "I would enjoy helping people understand health-related information.",
+            "I like learning about biology and the causes of illness.",
+            "I can stay thoughtful and focused when someone needs help.",
+            "I am interested in how research can improve people's health.",
+            "I would enjoy working with others toward a person's care or recovery."
+        ]
+    },
+    {
+        "name": "education",
+        "questions": [
+            "I enjoy explaining ideas so other people can understand them.",
+            "I feel satisfied when I help someone learn a new skill.",
+            "I am interested in how people learn at different ages.",
+            "I like creating activities that make a topic easier to understand.",
+            "I am comfortable speaking to and guiding a group.",
+            "I would enjoy helping students build confidence in their abilities."
+        ]
+    },
+    {
+        "name": "arts_and_design",
+        "questions": [
+            "I enjoy expressing ideas through images, music, writing, or other creative work.",
+            "I notice details such as color, shape, layout, and style.",
+            "I like experimenting with different ways to communicate an idea.",
+            "I would enjoy creating designs for products, spaces, or media.",
+            "I am willing to revise creative work to make it stronger.",
+            "I often imagine new possibilities for how something could look or feel."
+        ]
+    },
+    {
+        "name": "social_sciences",
+        "questions": [
+            "I am curious about why people think and behave in different ways.",
+            "I enjoy discussing how communities and societies change.",
+            "I like examining different viewpoints before forming an opinion.",
+            "I am interested in how history influences the present.",
+            "I would enjoy researching issues that affect groups of people.",
+            "I like looking for patterns in people's choices and experiences."
+        ]
+    },
+    {
+        "name": "environmental_and_natural_sciences",
+        "questions": [
+            "I enjoy learning about ecosystems, animals, plants, or the natural world.",
+            "I am interested in how human activities affect the environment.",
+            "I like asking questions about how natural processes work.",
+            "I would enjoy collecting information or observations outdoors or in a lab.",
+            "I care about finding practical ways to protect natural resources.",
+            "I am curious about topics such as climate, geology, or conservation."
+        ]
+    }
+]
