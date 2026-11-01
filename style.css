@@ -159,9 +159,9 @@ h1 {
 
 .question-text {
     max-width: 620px;
-    font-size: clamp(1.65rem, 4.8vw, 2.25rem);
-    line-height: 1.25;
-    letter-spacing: -0.035em;
+    font-size: clamp(1.3rem, 3.5vw, 1.8rem);
+    line-height: 1.35;
+    letter-spacing: -0.025em;
 }
 
 .instruction {
