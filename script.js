@@ -1,7 +1,7 @@
 const ANSWER_OPTIONS = [
     { label: "Strongly agree", score: 100 },
     { label: "Agree", score: 75 },
-    { label: "Somewhat agree", score: 50 },
+    { label: "Neutral", score: 50 },
     { label: "Disagree", score: 25 },
     { label: "Strongly disagree", score: 0 }
 ];
